@@ -12,3 +12,5 @@ Hexadecimal Naughtiness
 ``#2FACED`` Two-Faced
 
 ``#CEA5ED`` Ceased
+
+``#BA115AC`` Ballsac
